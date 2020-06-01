@@ -1,0 +1,12 @@
+{
+    "name": "qvbilam/qvbilam",
+    "authors": [
+        {
+            "name": "QvBiLam",
+            "email": "qvbilam@163.com"
+        }
+    ],
+    "require": {
+        "ixudra/curl": "^6.19"
+    }
+}
